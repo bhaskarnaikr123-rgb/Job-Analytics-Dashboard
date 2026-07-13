@@ -2,8 +2,6 @@
 
 > An interactive Power BI dashboard that analyzes salary trends, programming language preferences, demographics, and job satisfaction among data professionals worldwide.
 
-![Jobs Analytics Dashboard](https://github.com/bhaskarnaikr123-rgb/Job-Analytics-Dashboard/blob/main/Job%20Analytics%20Dashboard.png)
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
