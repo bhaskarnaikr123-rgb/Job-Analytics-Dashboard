@@ -42,10 +42,7 @@ The project demonstrates practical skills in **Power BI, Power Query, DAX, Data 
 
 # 📊 Dashboard Preview
 
-<p align="center">
-<img src="assets/jobs-dashboard.png" width="100%">
-</p>
-
+![Jobs Analytics Dashboard](https://github.com/bhaskarnaikr123-rgb/Job-Analytics-Dashboard/blob/main/Job%20Analytics%20Dashboard.png)
 ---
 
 # 📈 Dashboard Components
